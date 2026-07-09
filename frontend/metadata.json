@@ -1,0 +1,6 @@
+{
+  "name": "Nexus-7 Aero-Cyber IDS",
+  "description": "High-performance futuristic cyber-defense head-up display (HUD) for active automotive CAN-bus intrusion detection, live traffic analysis, and AI-driven threat diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

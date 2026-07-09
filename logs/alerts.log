@@ -1,0 +1,381 @@
+============================================================
+CAN Bus IDS started at 2026-06-17 21:37:11
+============================================================
+============================================================
+CAN Bus IDS started at 2026-06-17 21:39:16
+============================================================
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:21] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:22] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-17 21:39:23] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-17 21:39:23] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-17 21:39:24] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-17 21:39:24] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-17 21:39:25] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-17 21:39:26] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-17 21:39:27] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-06-17 21:39:29 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================
+============================================================
+CAN Bus IDS started at 2026-06-18 13:05:05
+============================================================
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-18 13:05:11] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-18 13:05:11] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-18 13:05:12] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-18 13:05:12] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-18 13:05:13] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-18 13:05:14] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-18 13:05:15] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-06-18 13:05:17 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================
+============================================================
+CAN Bus IDS started at 2026-06-29 18:21:54
+============================================================
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:21:59] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:22:01] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:22:01] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:22:02] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:22:02] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:22:03] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:22:04] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:22:04] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-06-29 18:22:11 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================
+============================================================
+CAN Bus IDS started at 2026-06-29 18:22:55
+============================================================
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:00] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:01] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:01] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:01] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:01] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:01] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:23:02] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:23:02] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:23:03] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:23:03] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:23:04] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:23:05] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:23:06] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-06-29 18:23:12 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================
+============================================================
+CAN Bus IDS started at 2026-06-29 18:28:05
+============================================================
+[ALERT] [2026-06-29 18:28:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:09] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:10] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:11] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-06-29 18:28:11] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:28:12] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:28:12] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:28:13] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-06-29 18:28:14] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:28:15] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-06-29 18:28:15] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-06-29 18:28:19 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================
+============================================================
+CAN Bus IDS started at 2026-07-09 12:28:39
+============================================================
+[ALERT] [2026-07-09 12:28:43] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] FLOOD | HIGH confidence | CAN_ID=0x101 | 11 messages from CAN_ID=0x101 in 1.0s (threshold=10)
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:44] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:45] SPOOF | MEDIUM confidence | CAN_ID=0x101 | Message from unknown CAN_ID=0x101. Not in whitelist of legitimate ECU IDs.
+[ALERT] [2026-07-09 12:28:45] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-07-09 12:28:46] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-07-09 12:28:47] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-07-09 12:28:47] REPLAY | HIGH confidence | CAN_ID=0x101 | Exact duplicate message from CAN_ID=0x101. Counter=5 with identical data seen before.
+[ALERT] [2026-07-09 12:28:48] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-07-09 12:28:49] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+[ALERT] [2026-07-09 12:28:50] SPOOF | HIGH confidence | CAN_ID=0x100 | Auth token mismatch on CAN_ID=0x100. Received=FFFFFFFF, Expected=DEADBEEF. Possible identity spoofing.
+Session ended 2026-07-09 12:28:53 | Messages=15 | Alerts=58 | Flood=1 | Replay=4 | Spoof=53
+============================================================

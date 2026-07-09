@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-display: "Geist", "Inter", sans-serif;
+  --font-mono: "Space Mono", monospace;
+  
+  --color-brand-cyan: #00E5FF;
+  --color-brand-violet: #7B61FF;
+  --color-brand-bg: #0B0F1A;
+  --color-brand-gray-dark: #131314;
+  --color-brand-red: #FF4D6D;
+  --color-brand-green: #00E676;
+}
+
+/* Custom Scrollbars for Telemetry HUD Feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 229, 255, 0.2);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 229, 255, 0.4);
+}
+
+/* Blueprint SVG grid overlay background utility */
+.hud-grid-bg {
+  background-size: 20px 20px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+                    linear-gradient(to bottom, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+}
+
+/* Glassmorphic Cards Inner Edge Gradient Simulation */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-accent-cyan {
+  background: rgba(0, 229, 255, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(0, 229, 255, 0.15);
+  box-shadow: 0 0 15px rgba(0, 229, 255, 0.05);
+}
+
+.glass-panel-accent-red {
+  background: rgba(255, 77, 109, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 77, 109, 0.15);
+  box-shadow: 0 0 15px rgba(255, 77, 109, 0.05);
+}
+
+.glass-panel-accent-violet {
+  background: rgba(123, 97, 255, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(123, 97, 255, 0.15);
+  box-shadow: 0 0 15px rgba(123, 97, 255, 0.05);
+}
+
+/* Soft glowing dots */
+.glow-cyan {
+  box-shadow: 0 0 12px #00E5FF;
+}
+
+.glow-red {
+  box-shadow: 0 0 12px #FF4D6D;
+}
+
+.glow-violet {
+  box-shadow: 0 0 12px #7B61FF;
+}
+
+.glow-green {
+  box-shadow: 0 0 12px #00E676;
+}
+
+/* Custom glowing effects */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(255, 77, 109, 0.15);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(255, 77, 109, 0.4);
+    border-color: rgba(255, 77, 109, 0.3);
+  }
+}
+
+.pulse-glow-red {
+  animation: pulseGlow 2s infinite ease-in-out;
+}
