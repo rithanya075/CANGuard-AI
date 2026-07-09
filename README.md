@@ -245,25 +245,6 @@ Source code is hosted on **GitHub**.
 
 ---
 
-## Screenshots
-
-### IDS Dashboard
-
-_Add dashboard screenshot here._
-
-### Traffic Analysis
-
-_Add traffic analysis screenshot here._
-
-### Threat Intelligence
-
-_Add threat intelligence screenshot here._
-
-### Hardware Status
-
-_Add hardware monitoring screenshot here._
-
----
 
 ## Project Highlights
 
