@@ -7,7 +7,7 @@ import { GoogleGenAI } from "@google/genai";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 app.use(express.json());
 
@@ -124,7 +124,7 @@ Return a high-quality Markdown response with structured tables, bullet points, a
 // Proxy GET /api/stats to Flask backend
 app.get("/api/stats", async (req, res) => {
   try {
-    const response = await fetch("http://127.0.0.1:5000/api/stats");
+    const response = await fetch("https://canguard-ai-i8sv.onrender.com/api/stats");
     if (!response.ok) {
       throw new Error(`Flask stats returned status ${response.status}`);
     }
@@ -133,7 +133,7 @@ app.get("/api/stats", async (req, res) => {
   } catch (error: any) {
     console.error("[SYS] Flask stats proxy error:", error.message);
     res.status(502).json({
-      error: "Unable to reach Flask backend at http://127.0.0.1:5000/api/stats",
+      error: "Unable to reach Flask backend at https://canguard-ai-i8sv.onrender.com/api/stats",
       details: error.message,
     });
   }
@@ -142,7 +142,7 @@ app.get("/api/stats", async (req, res) => {
 // Proxy GET /api/alerts to Flask backend
 app.get("/api/alerts", async (req, res) => {
   try {
-    const response = await fetch("http://127.0.0.1:5000/api/alerts");
+    const response = await fetch("https://canguard-ai-i8sv.onrender.com/api/alerts");
     if (!response.ok) {
       throw new Error(`Flask alerts returned status ${response.status}`);
     }
@@ -151,7 +151,7 @@ app.get("/api/alerts", async (req, res) => {
   } catch (error: any) {
     console.error("[SYS] Flask alerts proxy error:", error.message);
     res.status(502).json({
-      error: "Unable to reach Flask backend at http://127.0.0.1:5000/api/alerts",
+      error: "Unable to reach Flask backend at https://canguard-ai-i8sv.onrender.com/api/alerts",
       details: error.message,
     });
   }
@@ -160,7 +160,7 @@ app.get("/api/alerts", async (req, res) => {
 // Proxy GET /api/traffic to Flask backend
 app.get("/api/traffic", async (req, res) => {
   try {
-    const response = await fetch("http://127.0.0.1:5000/api/traffic");
+    const response = await fetch("https://canguard-ai-i8sv.onrender.com/api/traffic");
     if (!response.ok) {
       throw new Error(`Flask traffic returned status ${response.status}`);
     }
@@ -169,7 +169,7 @@ app.get("/api/traffic", async (req, res) => {
   } catch (error: any) {
     console.error("[SYS] Flask traffic proxy error:", error.message);
     res.status(502).json({
-      error: "Unable to reach Flask backend at http://127.0.0.1:5000/api/traffic",
+      error: "Unable to reach Flask backend at https://canguard-ai-i8sv.onrender.com/api/traffic",
       details: error.message,
     });
   }
