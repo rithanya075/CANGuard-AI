@@ -1,69 +1,106 @@
 # CANGuard-AI
 
-## AI-Powered CAN Bus Intrusion Detection System for Automotive Cybersecurity
+AI-Powered CAN Bus Intrusion Detection System for Automotive Cybersecurity
 
-CANGuard-AI is an intrusion detection system (IDS) developed to improve the security of automotive Controller Area Network (CAN) communication. The project monitors CAN traffic in real time, detects malicious activities such as spoofing, replay, and flooding attacks, and provides an interactive web dashboard for traffic analysis, alert visualization, and system monitoring.
+CANGuard-AI is a full-stack automotive cybersecurity platform that monitors CAN Bus traffic, detects malicious activities, and provides a real-time dashboard for security monitoring. The system identifies replay attacks, CAN ID spoofing, and flooding attacks while maintaining traffic logs and security alerts for analysis.
 
-The system combines embedded hardware, backend services, and a modern web interface to demonstrate an end-to-end automotive cybersecurity solution.
+The project demonstrates how modern cybersecurity techniques can be applied to in-vehicle networks using Python, Flask, React, TypeScript, and SQLite.
+
+---
+
+## Live Demo
+
+**Frontend**
+
+https://canguard-ai-1.onrender.com
+
+**Backend API**
+
+https://canguard-ai-i8sv.onrender.com/api/health
+
+**GitHub Repository**
+
+https://github.com/rithanya075/CANGuard-AI
 
 ---
 
 ## Features
 
 - Real-time CAN Bus traffic monitoring
-- Detection of Spoofing, Replay, and Flooding attacks
-- Authentication-based message validation
-- Traffic logging using SQLite
-- RESTful API built with Flask
-- Interactive dashboard developed using React and TypeScript
-- Hardware integration using Arduino UNO and MCP2515 CAN controller
-- Modular IDS architecture for future attack detection extensions
+- Replay attack detection
+- CAN ID spoofing detection
+- Flood attack detection
+- Real-time IDS dashboard
+- Alert logging and visualization
+- Threat Intelligence module
+- Traffic Analysis dashboard
+- Hardware Status monitoring
+- SQLite database integration
+- RESTful Flask APIs
+- AI-assisted threat diagnostics with fallback support
+- Responsive React dashboard
 
 ---
 
 ## Technology Stack
 
 ### Frontend
+
 - React
 - TypeScript
-- CSS
+- Vite
+- Tailwind CSS
 
 ### Backend
+
 - Python
 - Flask
 - Flask-CORS
 
 ### Database
+
 - SQLite
 
-### Hardware
-- Arduino UNO
-- MCP2515 CAN Controller
+### Deployment
 
-### Communication Protocol
-- CAN Bus
+- Render
+- GitHub
+
+### Languages
+
+- Python
+- TypeScript
+- JavaScript
+- SQL
 
 ---
 
 ## System Architecture
 
 ```
-CAN Bus Network
-        │
-        ▼
-Arduino + MCP2515
-        │
-        ▼
-Intrusion Detection Engine
-        │
-        ▼
-SQLite Database
-        │
-        ▼
-Flask REST API
-        │
-        ▼
-React Dashboard
+                    CAN Bus Traffic
+                           │
+                           ▼
+                Intrusion Detection Engine
+                           │
+     ┌─────────────────────┼─────────────────────┐
+     │                     │                     │
+     ▼                     ▼                     ▼
+ Replay Detection    Spoof Detection    Flood Detection
+     │                     │                     │
+     └─────────────────────┼─────────────────────┘
+                           │
+                           ▼
+                    SQLite Database
+                           │
+                           ▼
+                    Flask REST API
+                           │
+                           ▼
+                  React Web Dashboard
+                           │
+                           ▼
+                  Security Administrator
 ```
 
 ---
@@ -73,99 +110,171 @@ React Dashboard
 ```
 CANGuard-AI
 │
-├── arduino/              Hardware communication code
-├── dashboard/            Flask backend and REST APIs
-├── frontend/             React dashboard application
-├── ids/                  Intrusion detection modules
-├── logs/                 Database and generated logs
-├── requirements.txt      Python dependencies
-└── README.md
+├── arduino/
+│   ├── CAN communication sketches
+│   └── MCP2515 interface code
+│
+├── dashboard/
+│   ├── Flask backend
+│   ├── REST APIs
+│   ├── HTML templates
+│   └── Static resources
+│
+├── frontend/
+│   ├── React application
+│   ├── TypeScript components
+│   ├── Vite configuration
+│   └── AI integration
+│
+├── ids/
+│   ├── Detection engine
+│   ├── Authentication module
+│   ├── Alert generation
+│   ├── Logging
+│   └── Simulation engine
+│
+├── logs/
+│   ├── SQLite database
+│   └── Alert logs
+│
+└── requirements.txt
 ```
 
 ---
 
-## Attack Detection Capabilities
+## Detection Capabilities
 
-The current implementation detects the following attack categories:
+### Replay Attack Detection
 
-- CAN Message Spoofing
-- Replay Attacks
-- Flooding / Denial of Service (DoS)
+Detects duplicated CAN messages transmitted within abnormal timing windows.
 
-Each detected event records:
+### CAN ID Spoofing Detection
 
-- Timestamp
-- CAN Identifier
-- Attack Type
-- Confidence Level
-- Detection Details
-- Source Node Information
+Identifies unauthorized ECUs transmitting forged CAN frames using authentication validation.
+
+### Flood Attack Detection
+
+Detects high-frequency CAN traffic intended to overload legitimate vehicle communication.
 
 ---
 
 ## Dashboard Modules
 
-The web dashboard provides:
-
-- System Overview
-- Traffic Analysis
-- Intrusion Detection Statistics
-- Alert Management
+- IDS Statistics
 - Threat Intelligence
-- Hardware Status Monitoring
-- Fleet Overview
-- System Configuration
+- Traffic Analysis
+- Hardware Status
+- System Settings
+
+---
+
+## REST API Endpoints
+
+| Endpoint | Description |
+|----------|-------------|
+| `/api/health` | Service health check |
+| `/api/stats` | IDS statistics |
+| `/api/alerts` | Alert history |
+| `/api/traffic` | Traffic logs |
+| `/api/dashboard` | Dashboard summary |
 
 ---
 
 ## Installation
 
-### Clone the repository
+Clone the repository
 
 ```bash
-git clone https://github.com/rithanyaaa075/CANGuard-AI.git
+git clone https://github.com/rithanya075/CANGuard-AI.git
+```
+
+Move into the project
+
+```bash
 cd CANGuard-AI
 ```
 
-### Install Python dependencies
+Install Python dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the backend
+Run the Flask backend
 
 ```bash
 cd dashboard
 python app.py
 ```
 
-### Run the Intrusion Detection Engine
-
-```bash
-cd ids
-python main.py
-```
-
-### Run the frontend
+Install frontend dependencies
 
 ```bash
 cd frontend
 npm install
+```
+
+Run the frontend
+
+```bash
 npm run dev
 ```
 
 ---
 
+## Deployment
+
+Frontend is deployed using **Render**.
+
+Backend is deployed using **Render Web Service**.
+
+Source code is hosted on **GitHub**.
+
+---
+
 ## Future Enhancements
 
-- Machine Learning based anomaly detection
-- PostgreSQL integration
+- Live CAN Bus hardware integration
+- Machine learning-based anomaly detection
+- WebSocket-based live monitoring
+- Multi-vehicle fleet monitoring
+- User authentication
+- Cloud database support
 - Docker containerization
-- Cloud deployment
-- Real vehicle CAN Bus integration
-- User authentication and role-based access control
-- Live CAN traffic visualization
+- Kubernetes deployment
+
+---
+
+## Screenshots
+
+### IDS Dashboard
+
+_Add dashboard screenshot here._
+
+### Traffic Analysis
+
+_Add traffic analysis screenshot here._
+
+### Threat Intelligence
+
+_Add threat intelligence screenshot here._
+
+### Hardware Status
+
+_Add hardware monitoring screenshot here._
+
+---
+
+## Project Highlights
+
+- Full-stack web application
+- Real-time cybersecurity dashboard
+- Cloud deployment on Render
+- RESTful API architecture
+- Modular IDS engine
+- SQLite-based event logging
+- Automotive cybersecurity use case
+- Resume-ready deployment
 
 ---
 
@@ -173,12 +282,14 @@ npm run dev
 
 **Rithanya S**
 
-B.Tech in Cyber Security
+B.Tech Cyber Security
 
-SRM Institute of Science and Technology
+GitHub
+
+https://github.com/rithanya075
 
 ---
 
 ## License
 
-This project is intended for educational and research purposes.
+This project is intended for educational, research, and demonstration purposes in automotive cybersecurity.
